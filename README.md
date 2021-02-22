@@ -2,9 +2,10 @@
 Este repositório guarda os trabalhos e projetos da disciplina
 
 # Desenvolvedor(a):
-## André Saad Bonito
+- André Saad Bonito
 
-#Lingaugens e Frameworks:
+# Linguagens e Frameworks:
 - Python
 - C
 - Java
+- Dart
