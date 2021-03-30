@@ -17,7 +17,6 @@ public class Main {
         c1.saldo = 199.99;
 
         c1.visualizarSaldo();
-        c1.visualizarSaldo();
 
         c2.cliente.titular = "Seichonaru";
         c2.saldo = 1000;
