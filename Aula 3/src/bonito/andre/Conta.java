@@ -5,7 +5,7 @@ public class Conta {
     double saldo;
     Cliente cliente;
 
-    void visaulizarSaldo() {
+    void visualizarSaldo() {
         System.out.println("Saldo da conta: R$" + this.saldo);
         }
 
