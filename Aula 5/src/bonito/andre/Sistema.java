@@ -72,7 +72,7 @@ public class Sistema {
         System.out.println("3 - Sacar dinheiro");
         System.out.println("4 - Transferir dinheiro");
         System.out.println("5 - Pagar Titulo");
-        System.out.println("6 - Sair do sistema");
+        System.out.println("0 - Sair do sistema");
 
     }
 }
